@@ -6,5 +6,5 @@
 ---
 ## 资源：
 - 学习视频见YouTube或B站[跟李沐学AI](https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0)
-- 电子书链接：[《动手学深度学习》](https://zh-v2.d2l.ai/)
-- [《大语言模型》](https://llmbook-zh.github.io/LLMBook.pdf#page=2.09)
+- 电子书链接：[《动手学深度学习》](https://zh-v2.d2l.ai/)   [《大语言模型》](https://llmbook-zh.github.io/LLMBook.pdf#page=2.09)
+- 《LLMBook》github地址：(https://github.com/LLMBook-zh/LLMBook-zh.github.io)
